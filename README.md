@@ -28,6 +28,10 @@ It is designed to help stakeholders quickly identify sales drivers, high-perform
 
 ---
 
+<img width="955" height="597" alt="image" src="https://github.com/user-attachments/assets/4ea36a84-2067-481c-9839-ae6ee6384a9c" />
+
+---
+
 ## 📈 Dashboard Features
 
 ### 🔹 Sales Analysis
