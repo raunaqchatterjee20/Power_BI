@@ -76,7 +76,7 @@ It is designed to help stakeholders quickly identify sales drivers, high-perform
 1. Clone the repository
 
    ```bash
-   git clone [https://github.com/your-username/blinkit-powerbi-dashboard.git](https://github.com/raunaqchatterjee20/Power_BI/blob/main/BlinkIT_Dashboard.pbix)
+   git clone (https://github.com/raunaqchatterjee20/Power_BI/blob/main/BlinkIT_Dashboard.pbix)
    ```
 2. Open the `.pbix` file using **Power BI Desktop**
 3. Interact with slicers and visuals to explore insights
